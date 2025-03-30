@@ -1,4 +1,4 @@
-var arr = ["img1.avif","img2.avif"];
+var arr = ["img1.avif","img2.avif","img3.avif","img4.avif","img5.avif","img6.avif","img7.avif",];
 
 var forward = document.querySelector(".ri-arrow-right-s-line")
 var back = document.querySelector(".ri-arrow-left-s-line")
